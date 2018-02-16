@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17e9cd4c-4ce5-4287-9319-911db7c4bf43" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Template/Cars/edit_first.ctp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Template/Cars/edit_fourth.ctp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Template/Cars/edit_last.ctp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Template/Cars/edit_second.ctp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Template/Cars/edit_third.ctp" />
+      <change beforePath="$PROJECT_DIR$/.idea/carshareapp.iml" afterPath="$PROJECT_DIR$/.idea/carshareapp.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/CarsController.php" afterPath="$PROJECT_DIR$/src/Controller/CarsController.php" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Cars/add_first.ctp" afterPath="$PROJECT_DIR$/src/Template/Cars/add_first.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Cars/add_fourth.ctp" afterPath="$PROJECT_DIR$/src/Template/Cars/add_fourth.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Cars/add_last.ctp" afterPath="$PROJECT_DIR$/src/Template/Cars/add_last.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Cars/add_second.ctp" afterPath="$PROJECT_DIR$/src/Template/Cars/add_second.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Cars/add_third.ctp" afterPath="$PROJECT_DIR$/src/Template/Cars/add_third.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Cars/cars_on_map.ctp" afterPath="$PROJECT_DIR$/src/Template/Cars/cars_on_map.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Cars/index.ctp" afterPath="$PROJECT_DIR$/src/Template/Cars/index.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Cars/revive.ctp" afterPath="$PROJECT_DIR$/src/Template/Cars/revive.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Cars/search.ctp" afterPath="$PROJECT_DIR$/src/Template/Cars/search.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Layout/default.ctp" afterPath="$PROJECT_DIR$/src/Template/Layout/default.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Rentals/edit.ctp" afterPath="$PROJECT_DIR$/src/Template/Rentals/edit.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Rentals/index.ctp" afterPath="$PROJECT_DIR$/src/Template/Rentals/index.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Rentals/proceed.ctp" afterPath="$PROJECT_DIR$/src/Template/Rentals/proceed.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Rentals/verify_card.ctp" afterPath="$PROJECT_DIR$/src/Template/Rentals/verify_card.ctp" />
+      <change beforePath="$PROJECT_DIR$/src/Template/Users/view.ctp" afterPath="$PROJECT_DIR$/src/Template/Users/view.ctp" />
+    </list>
+    <ignored path="carshareapp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="carshareapp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="default.ctp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Template/Layout/default.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="40" column="47" lean-forward="false" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>progress-bar</find>
+      <find>Parks</find>
+      <find>proceed</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Template/Rentals/timetable.ctp" />
+        <option value="$PROJECT_DIR$/src/Controller/BrowsingsController.php" />
+        <option value="$PROJECT_DIR$/src/Model/Entity/Rental.php" />
+        <option value="$PROJECT_DIR$/webroot/js/morris.js" />
+        <option value="$PROJECT_DIR$/src/Template/Requests/add.ctp" />
+        <option value="$PROJECT_DIR$/src/Controller/RequestsController.php" />
+        <option value="$PROJECT_DIR$/src/Controller/AppController.php" />
+        <option value="$PROJECT_DIR$/src/Template/Messages/edit.ctp" />
+        <option value="$PROJECT_DIR$/src/Controller/MessagesController.php" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/cars_on_map.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Customers/dashboard.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Customers/edit.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Customers/admin_edit.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Messages/index.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/review.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Rentals/edit.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/add.ctp" />
+        <option value="$PROJECT_DIR$/webroot/css/style.css" />
+        <option value="$PROJECT_DIR$/webroot/css/materialize.css" />
+        <option value="$PROJECT_DIR$/webroot/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/src/Model/Table/CarsTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Entity/Car.php" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/view.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Rentals/return_car.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Layout/default.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Rentals/resolve.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Rentals/proceed.ctp" />
+        <option value="$PROJECT_DIR$/src/Controller/CustomersController.php" />
+        <option value="$PROJECT_DIR$/src/Template/Rentals/index.ctp" />
+        <option value="$PROJECT_DIR$/src/Controller/RentalsController.php" />
+        <option value="$PROJECT_DIR$/src/Template/Rentals/verify_card.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Users/add.ctp" />
+        <option value="$PROJECT_DIR$/src/Controller/UsersController.php" />
+        <option value="$PROJECT_DIR$/src/Template/Users/view.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/edit.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Rentals/view.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/csearch.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/search.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/add_second.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/add_fourth.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/revive.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/index.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/add_third.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/edit_third.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/edit_first.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/edit_second.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/edit_fourth.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/edit_last.ctp" />
+        <option value="$PROJECT_DIR$/src/Controller/CarsController.php" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/add_first.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Cars/add_last.ctp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/seld/cli-prompt" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/robmorgan/phinx" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/aura/intl" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/cakephp/plugin-installer" />
+      <path value="$PROJECT_DIR$/vendor/cakephp/migrations" />
+      <path value="$PROJECT_DIR$/vendor/cakephp/bake" />
+      <path value="$PROJECT_DIR$/vendor/cakephp/chronos" />
+      <path value="$PROJECT_DIR$/vendor/cakephp/debug_kit" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/cakephp/cakephp" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="70" />
+    <option name="y" value="-9" />
+    <option name="width" value="1859" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CarShareApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarShareApp" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CarShareApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarShareApp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CarShareApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarShareApp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Template" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CarShareApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarShareApp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Template" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Layout" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CarsController.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CarShareApp/src/Controller/CarsController.php" />
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.CarsController.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17e9cd4c-4ce5-4287-9319-911db7c4bf43" name="Default" comment="" />
+      <created>1502887312732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502887312732</updated>
+      <workItem from="1502887314347" duration="4792000" />
+      <workItem from="1502939333234" duration="286000" />
+      <workItem from="1503312763930" duration="706000" />
+      <workItem from="1503314298921" duration="101000" />
+      <workItem from="1503329655185" duration="30424000" />
+      <workItem from="1503376986133" duration="2581000" />
+      <workItem from="1503427274886" duration="17599000" />
+      <workItem from="1503458601426" duration="140000" />
+      <workItem from="1503550074581" duration="234000" />
+      <workItem from="1504346122215" duration="2016000" />
+      <workItem from="1504613477753" duration="1349000" />
+      <workItem from="1504662759006" duration="2233000" />
+      <workItem from="1504689355717" duration="5245000" />
+      <workItem from="1504702052117" duration="4960000" />
+      <workItem from="1504707619642" duration="1096000" />
+      <workItem from="1504786286606" duration="2290000" />
+      <workItem from="1504825611717" duration="6032000" />
+      <workItem from="1504852894484" duration="18781000" />
+      <workItem from="1504911423029" duration="12215000" />
+      <workItem from="1504928831604" duration="13622000" />
+      <workItem from="1504955752116" duration="6532000" />
+      <workItem from="1505012234161" duration="8827000" />
+      <workItem from="1505027699340" duration="609000" />
+      <workItem from="1505028648938" duration="12523000" />
+      <workItem from="1505102728362" duration="5304000" />
+      <workItem from="1505118464788" duration="5758000" />
+      <workItem from="1505135304171" duration="7036000" />
+      <workItem from="1505187388309" duration="794000" />
+      <workItem from="1505193208180" duration="2940000" />
+      <workItem from="1505196823435" duration="10820000" />
+      <workItem from="1505274942756" duration="9804000" />
+      <workItem from="1505291910467" duration="20241000" />
+      <workItem from="1505477173279" duration="999000" />
+      <workItem from="1505478588854" duration="2036000" />
+      <workItem from="1505538703027" duration="7397000" />
+      <workItem from="1505623223787" duration="5241000" />
+      <workItem from="1505642549895" duration="14333000" />
+      <workItem from="1505657244655" duration="1072000" />
+      <workItem from="1505715229721" duration="8001000" />
+      <workItem from="1505724863074" duration="3678000" />
+      <workItem from="1505743685970" duration="7119000" />
+      <workItem from="1505802744653" duration="1716000" />
+      <workItem from="1505804843173" duration="331000" />
+      <workItem from="1505805228173" duration="276000" />
+      <workItem from="1505811479302" duration="8054000" />
+      <workItem from="1505826719072" duration="7052000" />
+      <workItem from="1505892196810" duration="11173000" />
+      <workItem from="1505910883406" duration="9289000" />
+      <workItem from="1505921476636" duration="1034000" />
+      <workItem from="1505969143715" duration="41000" />
+      <workItem from="1505969921970" duration="83000" />
+      <workItem from="1505970638465" duration="537000" />
+      <workItem from="1505986688261" duration="11996000" />
+      <workItem from="1506076018935" duration="9175000" />
+      <workItem from="1506120987860" duration="16637000" />
+      <workItem from="1506157808550" duration="8009000" />
+      <workItem from="1506166831057" duration="791000" />
+      <workItem from="1506331968367" duration="3225000" />
+      <workItem from="1506348979533" duration="20000" />
+      <workItem from="1506350040757" duration="1242000" />
+      <workItem from="1506407911564" duration="4018000" />
+      <workItem from="1506492471267" duration="468000" />
+      <workItem from="1506496006580" duration="5363000" />
+      <workItem from="1506669458139" duration="19075000" />
+      <workItem from="1506727233521" duration="18276000" />
+      <workItem from="1506836626244" duration="5719000" />
+      <workItem from="1506931062247" duration="4400000" />
+      <workItem from="1506935889076" duration="1305000" />
+      <workItem from="1507014087851" duration="9756000" />
+      <workItem from="1507031918779" duration="6089000" />
+      <workItem from="1507083080046" duration="600000" />
+      <workItem from="1507087511413" duration="19812000" />
+      <workItem from="1507166586684" duration="1584000" />
+      <workItem from="1507184757371" duration="22426000" />
+      <workItem from="1507262522809" duration="34662000" />
+      <workItem from="1507329354932" duration="26991000" />
+      <workItem from="1508090055303" duration="365000" />
+      <workItem from="1508138423511" duration="753000" />
+      <workItem from="1508146108674" duration="563000" />
+      <workItem from="1508194833790" duration="6067000" />
+      <workItem from="1508726519343" duration="40112000" />
+      <workItem from="1508844553935" duration="7758000" />
+      <workItem from="1508912678670" duration="13661000" />
+      <workItem from="1509006030334" duration="81000" />
+      <workItem from="1509006334054" duration="8123000" />
+      <workItem from="1509170753357" duration="28521000" />
+      <workItem from="1509257077693" duration="15466000" />
+      <workItem from="1509348336905" duration="9776000" />
+      <workItem from="1509364730001" duration="2218000" />
+      <workItem from="1509446745984" duration="1188000" />
+      <workItem from="1509528633034" duration="2985000" />
+      <workItem from="1509533402293" duration="122000" />
+      <workItem from="1509534805597" duration="3921000" />
+      <workItem from="1509588792100" duration="233000" />
+      <workItem from="1509602651477" duration="1872000" />
+      <workItem from="1509673037380" duration="1989000" />
+      <workItem from="1509704661065" duration="13607000" />
+      <workItem from="1518610643967" duration="947000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="726490000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="-9" width="1859" height="1098" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18773739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39958158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Controller/CarsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Customers/admin_edit.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="65" column="15" lean-forward="false" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Messages/index.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="10" column="78" lean-forward="true" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Rentals/add.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="123" column="30" lean-forward="true" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="4061" column="19" lean-forward="false" selection-start-line="4061" selection-start-column="19" selection-end-line="4061" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/css/materialize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="3197" column="27" lean-forward="false" selection-start-line="3197" selection-start-column="27" selection-end-line="3197" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="3767" column="10" lean-forward="true" selection-start-line="3767" selection-start-column="10" selection-end-line="3767" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Entity/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Table/CarsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="84" column="21" lean-forward="false" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Parks/edit.ctp" />
+    <entry file="file://$PROJECT_DIR$/src/Template/Rentals/resolve.ctp" />
+    <entry file="file://$PROJECT_DIR$/src/Template/Rentals/return_car.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Rentals/proceed.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="155" column="49" lean-forward="false" selection-start-line="155" selection-start-column="49" selection-end-line="155" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/ErrorController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Email/html/default.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Email/resetPassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Email/ForgotPassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/js/checkout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Customers/edit.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="134" column="57" lean-forward="true" selection-start-line="134" selection-start-column="57" selection-end-line="134" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/CustomersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="270" column="107" lean-forward="false" selection-start-line="270" selection-start-column="107" selection-end-line="270" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Customers/dashboard.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Rentals/verify_card.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="37" column="54" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Users/add.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="61" column="75" lean-forward="false" selection-start-line="61" selection-start-column="75" selection-end-line="61" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="184" column="56" lean-forward="true" selection-start-line="184" selection-start-column="56" selection-end-line="184" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Users/view.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Rentals/view.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Rentals/edit.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="154" column="37" lean-forward="true" selection-start-line="154" selection-start-column="37" selection-end-line="154" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/RentalsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="286" column="47" lean-forward="false" selection-start-line="286" selection-start-column="47" selection-end-line="286" selection-end-column="47" />
+          <folding>
+            <element signature="e#33#66#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/cakephp/cakephp/src/Controller/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14812">
+          <caret line="153" column="11" lean-forward="false" selection-start-line="153" selection-start-column="11" selection-end-line="153" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/csearch.ctp" />
+    <entry file="file://$PROJECT_DIR$/src/Controller/MessagesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="140" column="50" lean-forward="false" selection-start-line="140" selection-start-column="50" selection-end-line="140" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/cars_on_map.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="50" column="39" lean-forward="true" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/edit.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/search.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2468">
+          <caret line="134" column="14" lean-forward="false" selection-start-line="134" selection-start-column="14" selection-end-line="134" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/view.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="58" lean-forward="true" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Rentals/index.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="51" lean-forward="false" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/add_second.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="306" column="74" lean-forward="false" selection-start-line="306" selection-start-column="74" selection-end-line="306" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/add_fourth.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="53" column="74" lean-forward="false" selection-start-line="53" selection-start-column="74" selection-end-line="53" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/index.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="128" column="117" lean-forward="false" selection-start-line="128" selection-start-column="117" selection-end-line="128" selection-end-column="117" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/revive.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="45" column="117" lean-forward="false" selection-start-line="45" selection-start-column="117" selection-end-line="45" selection-end-column="117" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/add_third.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="219" column="46" lean-forward="false" selection-start-line="219" selection-start-column="46" selection-end-line="219" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/edit_second.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="370" column="166" lean-forward="false" selection-start-line="370" selection-start-column="166" selection-end-line="370" selection-end-column="166" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/edit_third.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="321" column="93" lean-forward="false" selection-start-line="321" selection-start-column="93" selection-end-line="321" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/edit_fourth.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="84" column="146" lean-forward="false" selection-start-line="84" selection-start-column="146" selection-end-line="84" selection-end-column="146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/edit_last.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="114" column="54" lean-forward="false" selection-start-line="114" selection-start-column="54" selection-end-line="114" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/edit_first.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="387" column="21" lean-forward="true" selection-start-line="387" selection-start-column="21" selection-end-line="387" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/add_first.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="384" column="89" lean-forward="false" selection-start-line="384" selection-start-column="89" selection-end-line="384" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Cars/add_last.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/CarsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8712">
+          <caret line="488" column="59" lean-forward="false" selection-start-line="488" selection-start-column="59" selection-end-line="488" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Layout/default.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="40" column="47" lean-forward="false" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
